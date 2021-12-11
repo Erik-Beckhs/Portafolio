@@ -627,6 +627,25 @@ span.quot-name:before {
   clear: both;
 }
 
+.w-100{
+  width:100px;
+}
+
+.w-150{
+  width:150px;
+}
+
+.w-180{
+  width:180px;
+}
+.w-200{
+  width:200px;
+}
+
+.text-dark{
+  color:#000;
+}
+
 #about .big-image {
   position: absolute;
   left: 0;
@@ -636,6 +655,26 @@ span.quot-name:before {
   background-repeat: no-repeat;
   background-position: center;
   z-index: 1
+}
+
+.d-flex{
+  display:flex;
+}
+
+.mt-3{
+  margin-top:48px;
+}
+
+.justify-content-between{
+  justify-content: space-between;
+}
+
+.image{
+  border-radius:30px;
+}
+
+.image:hover{
+  transform:scale(1.05);
 }
 
 .about-content {
